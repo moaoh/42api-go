@@ -2,7 +2,7 @@ name: Go
 
 on:
   push:
-    branches: [ main, kalee ]
+    branches: [ main, kalee, donghyki, jiychoi ]
   pull_request:
     branches: [ main ]
 
