@@ -14,3 +14,9 @@ Go library for 42 intra api
   - 깃허브 프로젝트 사용하기
   - 깃허브 이슈 사용하기
   - 깃허브 액션 사용하기
+
+# 프로젝트 규칙
+
+- main에 푸시하지 말기
+  - main은 무조건 pull request
+- test code 꼭 넣기
