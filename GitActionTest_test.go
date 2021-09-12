@@ -3,8 +3,8 @@ package main
 import "testing"
 
 func TestAdd(t *testing.T) {
-	expected := 1 + 4
-	got := add(1, 3)
+	expected := 1 + 3
+	got := Add(1, 3)
 
 	if expected != got {
 		t.Errorf("expected: %d got: %d", expected, got)
